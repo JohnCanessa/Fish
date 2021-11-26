@@ -8,7 +8,7 @@ problme description at Codility_ and give the problme a try.
 If interested in my comments and approach, I invite you to read the following
 post in my blog:
 
-<T.B.D>
+https://www.johncanessa.com/2021/11/26/codility_-problem-fish-in-java/
 
 Keep in mind that one of th ebest ways to learn is to read and try exercises.
 Repetition makes perfect.
